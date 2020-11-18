@@ -190,7 +190,7 @@ def are_one_code(list):#找到所有能被一个编码覆盖的听牌型
             res.append(i)
     return res
 
-def choosecode(ref, pat, list):#如果一个听牌型可以被一个编码覆盖，那么给这个听牌型自动分配一个可以覆盖的编码
+def choosecode(ref, pat, list):#对一个听牌型可以被一个编码覆盖，那么给这个听牌型自动分配一个可以覆盖的编码
     res = []
     lis = find_onecode(pat, list)
     for code in lis:
