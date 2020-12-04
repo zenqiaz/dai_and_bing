@@ -6,3 +6,8 @@
 11123p 11123456m	6m2p2m
 11123456p 11m		1m6p2p
 11123456p 11123m	6p2m2p
+
+1p xxxm（单骑）		1p(x)m(x-2)m or 1p(x)m(x-3)m
+11p 23m			1p2m3m
+11p 12m			1p1m2m
+11p 13m			1p1m3m
